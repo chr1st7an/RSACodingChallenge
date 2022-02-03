@@ -13,7 +13,7 @@ If there are any errors involving prompt_toolkit, install it seperately with `pi
 [Pure Python RSA Implementation](https://pypi.org/project/rsa/) is a required RSA key pair generation dependency. Install using `pip install rsa`
 
 Unit Test:
-please reference the video within the unit_test_tutorial file
+please reference the [tutorial video](/unit_test_tutorial/unittest.mov) within the unit_test_tutorial file
 
 1. Head to the directory for the project within your CLI and run `python3 main.py`. You will be greeted with the [main menu](/unit_test_tutorial/mainmenu.png)
 
