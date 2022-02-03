@@ -4,7 +4,7 @@ Dependencies:
 
 Created using python3.9.7 on MacOS
 
-It is reccomended to create and enter a virtual environment before installing these dependencies as they might collide with some existing modules.
+It is reccomended, but not necessary, to create and enter a virtual environment before installing these dependencies as they might collide with some existing modules.
 do this by running `python3 -m venv .venv` then `. ./.venv/bin/activate` within the project directory.
 
 [PyInquirer](https://github.com/CITGuru/PyInquirer#types) is a required CLI dependency. Install by running `pip install PyInquirer`
